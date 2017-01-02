@@ -13,4 +13,7 @@
 For each column in the LED matrix, turn a LED on and off in each row.
 
 ## Schematic
-![Wire Schematic](https://github.com/bac-space/teensy3.1-ledmatrix/images/teensy3.1-ledmatrix_schem.png)
+![Wire Schematic](/images/teensy3.1-ledmatrix_schem.png?raw=true "Optional Title")
+
+
+
