@@ -2,7 +2,7 @@
 
 ## Requirements
 * Teensy 3.1 or 3.2 -- [Website](https://www.pjrc.com/teensy/index.html)
-* LTP-757G
+* LTP-757G LED Matrix
 * 5 x 10 Ohm Resistors
 * Hook-up wire
 * Breadboard
@@ -13,7 +13,7 @@
 For each column in the LED matrix, turn a LED on and off in each row.
 
 ## Schematic
-![Wire Schematic](/images/teensy3.1-ledmatrix_schem.png?raw=true "Optional Title")
+![Wire Schematic](/images/teensy3.1-ledmatrix_schem.png?raw=true "Wire Schematic")
 
 
 
