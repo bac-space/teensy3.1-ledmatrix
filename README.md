@@ -15,5 +15,8 @@ For each column in the LED matrix, turn a LED on and off in each row.
 ## Schematic
 ![Wire Schematic](/images/teensy3.1-ledmatrix_schem.png?raw=true "Wire Schematic")
 
+## Result
+![Result GIF Image](/images/teensy3.1-ledmatrix.gif?raw=true "Result Image")
+
 
 
